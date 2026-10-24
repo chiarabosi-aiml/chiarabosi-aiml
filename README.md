@@ -12,6 +12,12 @@ I'm using this space to share selected projects from my university studies, incl
 
 Exploration of player behavior and classification of engagement levels using data preprocessing, feature analysis, model comparison and cross-validation.
 
+### [r/HostileArchitecture — Reddit Community Analysis](https://github.com/chiarabosi-aiml/reddit-hostile-architecture-analysis)
+
+*Team project | NLP, Social Network Analysis | Python, PRAW, spaCy, NetworkX*
+
+Analysis of Reddit discussions on hostile urban design, combining natural language processing, sentiment and emotion analysis, social network analysis and community detection.
+
 More academic projects will be added as they are documented.
 
 ## Areas of Interest
