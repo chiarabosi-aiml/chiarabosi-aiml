@@ -18,10 +18,20 @@ Exploration of player behavior and classification of engagement levels using dat
 
 Analysis of Reddit discussions on hostile urban design, combining natural language processing, sentiment and emotion analysis, social network analysis and community detection.
 
-More academic projects will be added as they are documented.
+### [Real vs. AI-Generated Image Detection](https://github.com/chiarabosi-aiml/real-vs-ai-image-detection)
+
+*Team project | Deep Learning, Computer Vision | Python, PyTorch, ResNet18*
+
+Classification of real and AI-generated images using convolutional neural networks and transfer learning, with LIME and Integrated Gradients for model explainability.
+
+### [Personalized Answer Retrieval](https://github.com/chiarabosi-aiml/personalized-answer-retrieval)
+
+*Team project | Information Retrieval, NLP | Python, TF-IDF, Neural Encoders, Phi-3*
+
+Development and evaluation of answer retrieval approaches, comparing traditional and neural ranking methods with LLM-based query expansion.
 
 ## Areas of Interest
 
-Machine Learning · Deep Learning · Natural Language Processing · Data Analysis
+Machine Learning · Deep Learning · Natural Language Processing · Computer Vision · Data Analysis
 
 Feel free to explore my repositories and get in touch through the links on my GitHub profile.
